@@ -1,1 +1,1 @@
-sitoi/dailycheckin:24.5.15
+sitoi/dailycheckin:latest
