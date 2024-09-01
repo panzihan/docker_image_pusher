@@ -1,1 +1,2 @@
 sitoi/dailycheckin:latest
+whyour/qinglong:latest
